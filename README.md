@@ -1,5 +1,13 @@
 ![Header](./github-header-banner2.png)
 
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+
+<p align=center>
+<img src="https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black">
+<img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff">
+</p>
+
 <!--
 ## Hi there 👋
 
@@ -21,5 +29,7 @@ Here are some ideas to get you started:
 **Used Material**
 https://leviarista.github.io/github-profile-header-generator/  (Banner Profile)
 https://readme.so/ (.md Files)
-https://codepen.io/
+https://codepen.io/ (Templates)(Editor)
+https://github.com/inttter/md-badges (BADGES)(V)
+https://shields.io/ (badges)
 -->
